@@ -1,0 +1,23 @@
+{
+  "name": "exercise8",
+  "version": "0.0.1",
+  "description": "css parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE-star/exercise8.git"
+  },
+  "keywords": [
+    "css",
+    "parser"
+  ],
+  "author": "Daniel Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FE-star/exercise8/issues"
+  },
+  "homepage": "https://github.com/FE-star/exercise8#readme"
+}

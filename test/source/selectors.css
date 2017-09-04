@@ -1,0 +1,5 @@
+p {}
+p .hot {}
+p > a {}
+p::before {}
+p:after {}

@@ -1,0 +1,8 @@
+.kv {
+    background: rgba(255, 255, 255, 0.5);
+    *background: #fff;
+    color: brown;
+    font-size: 13px;
+    transform: rotate(7deg);
+    font-family: arial;
+}
