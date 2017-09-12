@@ -20,15 +20,15 @@ describe('css parser', function () {
 
   it('可以匹配各种选择器', function () {
     const res = css(
-      fs.readFileSync(
-        path.resolve(__dirname, './source/selectors.css'),
-        'utf-8'
-      )
+        fs.readFileSync(
+            path.resolve(__dirname, './source/selectors.css'),
+            'utf-8'
+        )
     )
     const expect = require('./expect/selectors')
     assert.deepEqual(
-      res,
-      expect
+        res,
+        expect
     )
   })
 
